@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: CONSUMER_ELECTRONICS/PVR_IPTV
+# records: 5
+# head: 4f82b021723be16ca259afb3555eb169a5f8f6081b2fe7119c77bd4864ba1373
+{"digest": "906c703cfd6961da5bb98c0fd027dcbaa71d9892587372842d80d904120334ec", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "e3d37c10d319ab0be8578b3ab78f243e4847820178ee74ed55976a57a797d1b5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:53Z"}
+{"digest": "7987a22145b559ed2a0e2323f7cbbea857c747a58fdf5b74b8ae3f6f50ae5bb5", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "57d7b8a4bc94786f216db6346d3b45cbf609aa948ed885abf55527c085b0c6ac", "prev": "906c703cfd6961da5bb98c0fd027dcbaa71d9892587372842d80d904120334ec", "seq": 1, "ts": "2026-10-09T05:52:53Z"}
+{"digest": "4f6c55beef9962b867976660c8f3ba169c20071214fcab1a9149fd3cbab4e3c7", "kind": "readme", "path": "README.md", "payload_sha3": "00e89d5c1eaaaa794d425fe371f450ed0f342852043d66d128583a6d2be2adb9", "prev": "7987a22145b559ed2a0e2323f7cbbea857c747a58fdf5b74b8ae3f6f50ae5bb5", "seq": 2, "ts": "2026-10-09T05:52:53Z"}
+{"digest": "2547f1d00ca2e594a063688dce4051f6863932f5e7607817b01ec2723138fd1d", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "b8dc3b5f8df7bb6e85d2773caa985bb6fd0243ce98e7dd72879a820525c593b4", "prev": "4f6c55beef9962b867976660c8f3ba169c20071214fcab1a9149fd3cbab4e3c7", "seq": 3, "ts": "2026-10-09T05:52:53Z"}
+{"digest": "4f82b021723be16ca259afb3555eb169a5f8f6081b2fe7119c77bd4864ba1373", "kind": "notice", "path": "NOTICE", "payload_sha3": "8565fbc1091267d5627492550934a1626b3d72768ff61eac25c4e9bcf2d95a27", "prev": "2547f1d00ca2e594a063688dce4051f6863932f5e7607817b01ec2723138fd1d", "seq": 4, "ts": "2026-10-09T05:52:53Z"}
