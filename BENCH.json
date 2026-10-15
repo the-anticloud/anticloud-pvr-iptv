@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "PVR_IPTV",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CONSUMER_ELECTRONICS\\PVR_IPTV\\UPSTREAM_CLONE",
   "git": {
-   "head": "6fe684af5190a1e75032cd655d862c43d9c36396",
-   "url": "https://github.com/4gray/iptvnator",
-   "branch": "master",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12"
+   "url": "https://github.com/kodi-pvr/pvr.iptvsimple",
+   "head": "6d334f6dfa16bbb4c0209ee50bb70f16bccb13bf",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/4gray/iptvnator"
   }
  },
  "metrics": {
